@@ -1,3 +1,3 @@
 # AML_project
 
-Het is nog wel nodig om zelf de data in de data folder te zetten btw.
+All the code used by team 25 for the AML food recognition project.
