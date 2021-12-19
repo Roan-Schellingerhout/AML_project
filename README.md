@@ -14,7 +14,7 @@ The models used in the project are:
 All of the models have been used for the ensemble. The ensemble methods used are:
 - A manual weighted ensemble
 - A automatic ensemble
-- A ensemble using a single model (BEiT)
+- A ensemble using a single model (BEiT) multiple times
 
 To further the insight into the subject a background removal method was applied to the dataset. This was used as several papers showed promise in using pictures without backgrounds to further enhance the models understanding of the food presented. This is demonstrated in the two different datasets used (data & data2). The latter having no background.
 
