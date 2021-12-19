@@ -2,7 +2,7 @@
 
 All the code used by team 25 for the AML food recognition project.
 
-Each Jupyter notebook contains a model that is used to then predict the labels of the foods on their own and later the models and their outputs are used in the ensemble.
+Each Jupyter notebook contains a model that is used to predict the labels of the foods on their own. The outputs of all models and the models themselves were then later used in the ensemble.
 
 The models used in the project are:
 - Resnet 18
